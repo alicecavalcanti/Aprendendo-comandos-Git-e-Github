@@ -1,7 +1,7 @@
 
 # DIO | RESUMOS GIT E GITHUB
 
-Repositórios para armazenar resimos sobre Git re Githuv do curso versionamento de código com git e GITHUB da [dio](https://www.dio.me/en)
+Repositórios para armazenar resumos sobre Git re Github do curso versionamento de código com git e GITHUB da [dio](https://www.dio.me/en)
 
 ## 📚 Documentação
 
